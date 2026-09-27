@@ -1,7 +1,6 @@
 # nutrition-skill-methodology
 
 ---
----
 
 ## 📜 许可 · License
 
